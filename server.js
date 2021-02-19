@@ -68,7 +68,7 @@ app.use((req, res, next) => {
     next();
 });
 
-const port = 3005;
+const port = 3000;
 
 let config = {
     'e1': {
